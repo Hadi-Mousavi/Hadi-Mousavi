@@ -16,7 +16,7 @@ Currently focused on:
 
 ## Current Projects
 
-* PayBridge (Payment & Exchange Website)
+* JetPay24 (Payment & Exchange Website)
 * Data Analysis Portfolio Projects
 * Machine Learning Projects
 
